@@ -6,5 +6,6 @@ new_array.insert  (square_no)
 end
 return new_array
 end
+end
 array = [9]
 puts square_array(array)
