@@ -2,7 +2,7 @@ def square_array(array)
 new_array = [900]
 array.each do |x|
 square_no = x*x
-new_array.insert  (square_no)
+new_array.unshift (square_no)
 end
 return new_array
 end
