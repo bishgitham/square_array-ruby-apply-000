@@ -1,3 +1,6 @@
 def square_array(array)
-  # your code here
+counter = x*x
+array.x each do |x|
+  "#{counter}: #{x}"
+
 end
