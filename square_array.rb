@@ -1,7 +1,6 @@
 def square_array(array)
-counter = x*x
-
+new_array = []
 array.each do |x|
-  "#{counter}: #{x}"
-
+square_no = x*x
+new_array.insert[square_no]
 end
