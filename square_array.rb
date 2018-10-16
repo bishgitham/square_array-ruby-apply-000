@@ -6,5 +6,5 @@ new_array.unshift (square_no)
 end
 return new_array
 end
-array = [9, 10, 2]
+array = [2,3,4]
 puts square_array(array)
