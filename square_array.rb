@@ -5,3 +5,4 @@ square_no = x*x
 new_array.insert[square_no]
 end
 end
+puts new_array
