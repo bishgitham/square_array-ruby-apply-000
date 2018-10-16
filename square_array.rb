@@ -7,4 +7,4 @@ end
 return new_array
 end
 array = [2,3,4]
-puts square_array(array)
+print square_array(array)
