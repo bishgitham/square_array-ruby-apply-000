@@ -7,4 +7,4 @@ end
 return new_array
 end
 array = [2,3,4]
-print square_array(array).reverse
+print square_array(array)
