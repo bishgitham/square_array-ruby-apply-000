@@ -1,5 +1,5 @@
 def square_array(array)
-new_array = [900]
+new_array = []
 array.each do |x|
 square_no = x*x
 new_array.unshift (square_no)
